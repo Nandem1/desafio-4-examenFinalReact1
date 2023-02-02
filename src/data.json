@@ -1,4 +1,4 @@
-const data = [
+[
     {
         "id": 1,
         "nombre": "Leon Scott Kennedy",
@@ -148,8 +148,6 @@ const data = [
         "id": 30,
         "nombre": "Lucas Baker",
         "status": "Fallecido"
-    },
+    }
 
 ]
-
-export default data
