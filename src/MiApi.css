@@ -1,0 +1,12 @@
+.head-text {
+    height: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 32px;
+    margin-top: 5px;
+}
+
+.App {
+    background-color: rgb(241, 241, 241);
+    min-height: 100vh;
+}
