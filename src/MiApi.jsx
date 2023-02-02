@@ -19,8 +19,9 @@ const MiApi = () => {
     }, [])
 
     const consumeApi = async () => {
+        const url = "https://raw.githubusercontent.com/Nandem1/desafio-4-examenFinalReact1/main/src/data.js"
         try {
-            let response = await fetch("")
+            let response = await fetch(url)
             let database = await response.json()
             setData(database.data)
         } catch {
