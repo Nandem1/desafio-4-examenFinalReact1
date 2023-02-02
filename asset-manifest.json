@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/desafio-4-examenFinalReact1/static/css/main.0746143e.css",
+    "main.js": "/desafio-4-examenFinalReact1/static/js/main.dca481ec.js",
+    "static/media/umbrellalogo.png": "/desafio-4-examenFinalReact1/static/media/umbrellalogo.eaf017d513fe94251bcd.png",
+    "index.html": "/desafio-4-examenFinalReact1/index.html",
+    "main.0746143e.css.map": "/desafio-4-examenFinalReact1/static/css/main.0746143e.css.map",
+    "main.dca481ec.js.map": "/desafio-4-examenFinalReact1/static/js/main.dca481ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0746143e.css",
+    "static/js/main.dca481ec.js"
+  ]
+}
