@@ -19,7 +19,7 @@ const MiApi = () => {
     }, [])
 
     const consumeApi = async () => {
-        const url = "https://raw.githubusercontent.com/Nandem1/desafio-4-examenFinalReact1/main/src/data.js"
+        const url = "https://raw.githubusercontent.com/Nandem1/desafio-4-examenFinalReact1/main/src/data.json"
         try {
             let response = await fetch(url)
             let database = await response.json()
